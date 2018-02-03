@@ -1,0 +1,35 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[requires]
+
+python_version = "3.5"
+
+[packages]
+
+click = "*"
+
+[dev-packages]
+
+pylint = "*"
+pycodestyle = "*"
+pydocstyle = "*"
+
+freezegun = "*"
+"coverage.space" = "*"
+
+mkdocs = "*"
+docutils = "*"
+pygments = "*"
+
+wheel = "*"
+pyinstaller = "*"
+
+twine = "*"
+
+sniffer = "*"
+pync = "*"
+MacFSEvents = {version = "*", sys_platform = "== 'darwin'"}

@@ -1,0 +1,13 @@
+site_name: accurate_append_client
+site_description: Client for Accurate Append API
+site_author: Will Fitzgerald
+repo_url: https://github.com/willf/accurate_append_client
+
+theme: readthedocs
+
+pages:
+- Home: index.md
+- About:
+  - Release Notes: about/changelog.md
+  - Contributing: about/contributing.md
+  - License: about/license.md
