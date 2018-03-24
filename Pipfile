@@ -19,7 +19,7 @@ pycodestyle = "*"
 pydocstyle = "*"
 
 freezegun = "*"
-"coverage.space" = "*"
+coverage-space = "*"
 
 mkdocs = "*"
 docutils = "*"
